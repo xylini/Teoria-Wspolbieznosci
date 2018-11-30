@@ -1,0 +1,15 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "TW lab5 homework",
+  "main": "app.js",
+  "author": "Jakub Pajor",
+  "dependencies": {
+    "async": "2.6.x",
+    "file": "^0.2.2",
+    "fs": "0.0.1-security",
+    "ls": "^0.2.1",
+    "q": "1.x"
+  },
+  "engine": "node >= 8.9.x"
+}
